@@ -1,6 +1,4 @@
-# ASK & FSK
-# NAME : NABISHA A
-# REG NO : 212223060177
+
 
 # Aim
 Write a simple Python program for the modulation and demodulation of ASK and FSK.
